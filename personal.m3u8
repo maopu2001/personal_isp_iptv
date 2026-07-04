@@ -26,24 +26,26 @@ https://tvapp-hellotech.easypecker.com/&TVHD/index.m3u8
 https://tvapp-hellotech.easypecker.com/gtv/index.m3u8
 #EXTINF:-1 tvg-name="&TV (HelloTech)" tvg-logo="http://10.11.12.13:9044/static/images/channels4_profile.jpg" group-title="Bangladesh",&TV (HelloTech)
 https://tvapp-hellotech.easypecker.com/NTVLive1/index.m3u8
-#EXTINF:-1 tvg-name="&TV (HelloTech)" tvg-logo="http://10.11.12.13:9044/static/images/20260312214748_1-7-1.jpg" group-title="Sports",&TV (HelloTech)
-https://tvapp-hellotech.easypecker.com/ptv/index.m3u8
 #EXTINF:-1 tvg-name="&TV (StreamX)" tvg-logo="http://172.20.5.1:8080/images/8520f3cea51697616b44972798cd87f9.png" group-title="Entertainment",&TV (StreamX)
 http://172.20.5.1:8080/1234567/7654321/19
 #EXTINF:-1 tvg-name="&TV (StreamX)" tvg-logo="http://172.20.5.1:8080/images/99c50f62aac508450b066447fe6c8b9c.png" group-title="Bangladesh",&TV (StreamX)
 http://172.20.5.1:8080/1234567/7654321/88
 #EXTINF:-1 tvg-name="&TV (StreamX)" tvg-logo="http://172.20.5.1:8080/images/ee96a166be90a88f86e83b48dd584b0f.png" group-title="Bangladesh",&TV (StreamX)
 http://172.20.5.1:8080/1234567/7654321/90
+#EXTINF:-1 tvg-name="&TV (64 Networks)" tvg-logo="http://198.195.239.50/img/channels/NTV.png" group-title="Bangladesh",&TV (64 Networks)
+http://198.195.239.50:8095/ntv/index.m3u8
 #EXTINF:-1 tvg-name="24 Ghanta (Funtime BD)" tvg-logo="http://172.20.5.1:8080/images/da4d4fd51ff0ef5d57ce3cd79efc1df5.png" group-title="News",24 Ghanta (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/277
 #EXTINF:-1 tvg-name="24 Ghanta (StreamX)" tvg-logo="http://172.20.5.1:8080/images/da4d4fd51ff0ef5d57ce3cd79efc1df5.png" group-title="News",24 Ghanta (StreamX)
 http://172.20.5.1:8080/1234567/7654321/104
-#EXTINF:-1 tvg-name="9XM (Funtime BD)" tvg-logo="http://10.11.12.13:9044/static/images/20260110190059_channels4_profile_7.jpg" group-title="Music",9XM (Funtime BD)
+#EXTINF:-1 tvg-name="9XM (Funtime BD)" tvg-logo="" group-title="Music",9XM (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/318
 #EXTINF:-1 tvg-name="9XM (HelloTech)" tvg-logo="http://10.11.12.13:9044/static/images/20260110190059_channels4_profile_7.jpg" group-title="Music",9XM (HelloTech)
 https://tvapp-hellotech.easypecker.com/9xm/index.m3u8
 #EXTINF:-1 tvg-name="9XM (StreamX)" tvg-logo="http://172.20.5.1:8080/images/9323084573f1e6e3d6b5dfb346c190e6.png" group-title="Music",9XM (StreamX)
 http://172.20.5.1:8080/1234567/7654321/257
+#EXTINF:-1 tvg-name="9XM (64 Networks)" tvg-logo="" group-title="Music",9XM (64 Networks)
+http://198.195.239.50:8095/9xm/index.m3u8
 #EXTINF:-1 tvg-name="A Sports (Funtime BD)" tvg-logo="http://10.11.12.13:9044/static/images/20260312211539_1200x630wa.jpg" group-title="Sports",A Sports (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/263
 #EXTINF:-1 tvg-name="A Sports (HelloTech)" tvg-logo="http://10.11.12.13:9044/static/images/20260312211539_1200x630wa.jpg" group-title="Sports",A Sports (HelloTech)
@@ -52,6 +54,8 @@ https://tvapp-hellotech.easypecker.com/A-SPORTS-HD/index.m3u8
 https://tvapp-hellotech.easypecker.com/beinspots/index.m3u8
 #EXTINF:-1 tvg-name="A Sports (HelloTech)" tvg-logo="http://10.11.12.13:9044/static/images/20260217172937_20260206202629_beIN_SSPORTS_Portada.jpg" group-title="Entertainment",A Sports (HelloTech)
 https://tvapp-hellotech.easypecker.com/bein1/index.m3u8
+#EXTINF:-1 tvg-name="A Sports (HelloTech)" tvg-logo="http://10.11.12.13:9044/static/images/20260312214748_1-7-1.jpg" group-title="Sports",A Sports (HelloTech)
+https://tvapp-hellotech.easypecker.com/ptv/index.m3u8
 #EXTINF:-1 tvg-name="A Sports (HelloTech)" tvg-logo="http://10.11.12.13:9044/static/images/20260109235811_unnamed_2.png" group-title="Sports",A Sports (HelloTech)
 https://tvapp-hellotech.easypecker.com/StarSports1/index.m3u8
 #EXTINF:-1 tvg-name="A Sports (HelloTech)" tvg-logo="http://10.11.12.13:9044/static/images/20260110000102_Star_Sports_Select_logo_1.png" group-title="Sports",A Sports (HelloTech)
@@ -112,7 +116,7 @@ http://172.20.5.1:8080/1234567/7654321/174
 http://172.20.5.1:8080/1234567/7654321/36
 #EXTINF:-1 tvg-name="A Sports (StreamX)" tvg-logo="http://172.20.5.1:8080/images/b2c41e7eb339d23b12fa5595f4a17492.png" group-title="Sports",A Sports (StreamX)
 http://172.20.5.1:8080/1234567/7654321/291
-#EXTINF:-1 tvg-name="A Sports (StreamX)" tvg-logo="http://10.11.12.13:9044/static/images/20260110000735_fimg1.jpg" group-title="Entertainment",A Sports (StreamX)
+#EXTINF:-1 tvg-name="A Sports (StreamX)" tvg-logo="" group-title="Entertainment",A Sports (StreamX)
 http://172.20.5.1:8080/1234567/7654321/298
 #EXTINF:-1 tvg-name="A Sports (StreamX)" tvg-logo="http://172.20.5.1:8080/images/990d795f1161b8aa73f883d561683093.png" group-title="Sports",A Sports (StreamX)
 http://172.20.5.1:8080/1234567/7654321/193
@@ -124,19 +128,25 @@ http://172.20.5.1:8080/1234567/7654321/309
 http://172.20.5.1:8080/1234567/7654321/313
 #EXTINF:-1 tvg-name="A Sports (StreamX)" tvg-logo="http://10.11.12.13:9044/static/images/tlogo.jpg" group-title="Sports",A Sports (StreamX)
 http://172.20.5.1:8080/1234567/7654321/314
+#EXTINF:-1 tvg-name="A Sports (64 Networks)" tvg-logo="" group-title="Sports",A Sports (64 Networks)
+http://198.195.239.50:8095/ptv/index.m3u8
+#EXTINF:-1 tvg-name="A Sports (64 Networks)" tvg-logo="" group-title="Sports",A Sports (64 Networks)
+http://198.195.239.50:8095/tsports/index.m3u8
+#EXTINF:-1 tvg-name="A Sports (64 Networks)" tvg-logo="http://198.195.239.50/img/channels/USTC-HorizLogo-600.png" group-title="Sports",A Sports (64 Networks)
+http://198.195.239.50:8095/unt-s/video.m3u8
 #EXTINF:-1 tvg-name="Aaj Tak (Funtime BD)" tvg-logo="http://172.20.5.1:8080/images/ayfdHaSGfQQ7HLxmvsjLeP2mtNmnKmBHiDUs7_DryrSoK0F5QWo2eIoVkCRe2Wp5FYH88sHophe4fdfbucEfyw.png" group-title="News",Aaj Tak (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/333
 #EXTINF:-1 tvg-name="Aaj Tak (StreamX)" tvg-logo="http://172.20.5.1:8080/images/ayfdHaSGfQQ7HLxmvsjLeP2mtNmnKmBHiDUs7_DryrSoK0F5QWo2eIoVkCRe2Wp5FYH88sHophe4fdfbucEfyw.png" group-title="News",Aaj Tak (StreamX)
 http://172.20.5.1:8080/1234567/7654321/362
-#EXTINF:-1 tvg-name="ABP News (Funtime BD)" tvg-logo="http://172.20.5.1:8080/images/50888a39db362cea2ef3054bf131c1a3.png" group-title="News",ABP News (Funtime BD)
+#EXTINF:-1 tvg-name="ABP News (Funtime BD)" tvg-logo="" group-title="News",ABP News (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/278
 #EXTINF:-1 tvg-name="ABP News (HelloTech)" tvg-logo="http://10.11.12.13:9044/static/images/20260312154253_channels4_profile_11.jpg" group-title="News",ABP News (HelloTech)
 https://tvapp-hellotech.easypecker.com/DW-NEWS-HD/index.m3u8
 #EXTINF:-1 tvg-name="ABP News (HelloTech)" tvg-logo="http://10.11.12.13:9044/static/images/20260312161542_channels4_profile_13.jpg" group-title="News",ABP News (HelloTech)
 https://tvapp-hellotech.easypecker.com/GEO-NEWS-HD/index.m3u8
-#EXTINF:-1 tvg-name="ABP News (StreamX)" tvg-logo="http://172.20.5.1:8080/images/50888a39db362cea2ef3054bf131c1a3.png" group-title="News",ABP News (StreamX)
+#EXTINF:-1 tvg-name="ABP News (StreamX)" tvg-logo="" group-title="News",ABP News (StreamX)
 http://172.20.5.1:8080/1234567/7654321/344
-#EXTINF:-1 tvg-name="ABP News (StreamX)" tvg-logo="http://172.20.5.1:8080/images/c54ba901355e07a0c605d1990b5db7ae.png" group-title="News",ABP News (StreamX)
+#EXTINF:-1 tvg-name="ABP News (StreamX)" tvg-logo="" group-title="News",ABP News (StreamX)
 http://172.20.5.1:8080/1234567/7654321/304
 #EXTINF:-1 tvg-name="ABP News (StreamX)" tvg-logo="http://172.20.5.1:8080/images/50888a39db362cea2ef3054bf131c1a3.png" group-title="News",ABP News (StreamX)
 http://172.20.5.1:8080/1234567/7654321/58
@@ -144,6 +154,8 @@ http://172.20.5.1:8080/1234567/7654321/58
 http://172.20.5.1:8080/1234567/7654321/268
 #EXTINF:-1 tvg-name="ABP News (StreamX)" tvg-logo="http://172.20.5.1:8080/images/a26ca3b4874f913fbffaa9d68bd61f22.png" group-title="News",ABP News (StreamX)
 http://172.20.5.1:8080/1234567/7654321/199
+#EXTINF:-1 tvg-name="ABP News (64 Networks)" tvg-logo="" group-title="News",ABP News (64 Networks)
+http://198.195.239.50:8095/atnNews/index.m3u8
 #EXTINF:-1 tvg-name="Akash BANGLA (Funtime BD)" tvg-logo="http://172.20.5.1:8080/images/bf5c2712f0d17c055c7912cb1405be2a.png" group-title="Bangladesh",Akash BANGLA (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/328
 #EXTINF:-1 tvg-name="Akash BANGLA (HelloTech)" tvg-logo="http://10.11.12.13:9044/static/images/atnbangla.jpg" group-title="Bangladesh",Akash BANGLA (HelloTech)
@@ -170,22 +182,30 @@ http://172.20.5.1:8080/1234567/7654321/96
 http://172.20.5.1:8080/1234567/7654321/331
 #EXTINF:-1 tvg-name="Akash BANGLA (StreamX)" tvg-logo="http://172.20.5.1:8080/images/fca006509b2e72141996f5f1bcbc429e.png" group-title="Entertainment",Akash BANGLA (StreamX)
 http://172.20.5.1:8080/1234567/7654321/98
+#EXTINF:-1 tvg-name="Akash BANGLA (64 Networks)" tvg-logo="" group-title="Bangladesh",Akash BANGLA (64 Networks)
+http://198.195.239.50:8095/atnBangla/index.m3u8
+#EXTINF:-1 tvg-name="Akash BANGLA (64 Networks)" tvg-logo="" group-title="Music",Akash BANGLA (64 Networks)
+http://198.195.239.50:8095/sangeetBangla/index.m3u8
+#EXTINF:-1 tvg-name="Akash BANGLA (64 Networks)" tvg-logo="" group-title="Entertainment",Akash BANGLA (64 Networks)
+http://198.195.239.50:8095/zeeBangla/index.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera NEWS (Funtime BD)" tvg-logo="http://172.20.5.1:8080/images/0dd98a20ae2bbcfb916ad12c14722cd6.png" group-title="News",Al Jazeera NEWS (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/281
 #EXTINF:-1 tvg-name="Al Jazeera NEWS (HelloTech)" tvg-logo="http://10.11.12.13:9044/static/images/20260301095205_images.png" group-title="News",Al Jazeera NEWS (HelloTech)
 https://tvapp-hellotech.easypecker.com/Aljazeera/index.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera NEWS (StreamX)" tvg-logo="http://172.20.5.1:8080/images/0dd98a20ae2bbcfb916ad12c14722cd6.png" group-title="News",Al Jazeera NEWS (StreamX)
 http://172.20.5.1:8080/1234567/7654321/108
-#EXTINF:-1 tvg-name="Ananda TV (Funtime BD)" tvg-logo="http://10.11.12.13:9044/static/images/Jamuna%20Tv1664825738.png" group-title="Entertainment",Ananda TV (Funtime BD)
+#EXTINF:-1 tvg-name="Ananda TV (Funtime BD)" tvg-logo="" group-title="Entertainment",Ananda TV (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/224
 #EXTINF:-1 tvg-name="Ananda TV (HelloTech)" tvg-logo="http://10.11.12.13:9044/static/images/Jamuna%20Tv1664825738.png" group-title="Bangladesh",Ananda TV (HelloTech)
 https://tvapp-hellotech.easypecker.com/JAMUNATV/index.m3u8
-#EXTINF:-1 tvg-name="Ananda TV (StreamX)" tvg-logo="http://10.11.12.13:9044/static/images/Jamuna%20Tv1664825738.png" group-title="Entertainment",Ananda TV (StreamX)
+#EXTINF:-1 tvg-name="Ananda TV (StreamX)" tvg-logo="" group-title="Entertainment",Ananda TV (StreamX)
 http://172.20.5.1:8080/1234567/7654321/329
-#EXTINF:-1 tvg-name="Ananda TV (StreamX)" tvg-logo="http://10.11.12.13:9044/static/images/Banglavision.png" group-title="Bangladesh",Ananda TV (StreamX)
+#EXTINF:-1 tvg-name="Ananda TV (StreamX)" tvg-logo="http://198.195.239.50/img/channels/BANGLA_VISION.png" group-title="Bangladesh",Ananda TV (StreamX)
 http://172.20.5.1:8080/1234567/7654321/328
 #EXTINF:-1 tvg-name="Ananda TV (StreamX)" tvg-logo="http://172.20.5.1:8080/images/187c0519d37d214f14b71b478ce97d3d.png" group-title="Bangladesh",Ananda TV (StreamX)
 http://172.20.5.1:8080/1234567/7654321/74
+#EXTINF:-1 tvg-name="Ananda TV (64 Networks)" tvg-logo="" group-title="Bangladesh",Ananda TV (64 Networks)
+http://198.195.239.50:8095/jamunaTv/index.m3u8
 #EXTINF:-1 tvg-name="Animal Planet (Funtime BD)" tvg-logo="http://172.20.5.1:8080/images/22dfb33182f1e1692b294c563d0f05e8.png" group-title="Documentary",Animal Planet (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/289
 #EXTINF:-1 tvg-name="Animal Planet (HelloTech)" tvg-logo="http://10.11.12.13:9044/static/images/c16e8633-6b2a-401a-9cd6-ac26a4fcdedb.webp" group-title="Entertainment",Animal Planet (HelloTech)
@@ -210,7 +230,7 @@ http://172.20.5.1:8080/1234567/7654321/70
 http://172.20.5.1:8080/1234567/7654321/76
 #EXTINF:-1 tvg-name="Asian TV (StreamX)" tvg-logo="http://172.20.5.1:8080/images/MTs0X_QtfIe-WZP8BN-fKFzy79QiWYFthtXm9NGSD9fFJ3LvjLQiUmg24SX3XC0g9OGUX_FkonNs0s7RY-u0TdLnP2HIUx9047Dr4NW5odmhrZXagCvBndi_tfVQFuaL.png" group-title="Entertainment",Asian TV (StreamX)
 http://172.20.5.1:8080/1234567/7654321/282
-#EXTINF:-1 tvg-name="ATN Bangla (Funtime BD)" tvg-logo="http://10.11.12.13:9044/static/images/atnbangla.jpg" group-title="Bangladesh",ATN Bangla (Funtime BD)
+#EXTINF:-1 tvg-name="ATN Bangla (Funtime BD)" tvg-logo="" group-title="Bangladesh",ATN Bangla (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/198
 #EXTINF:-1 tvg-name="ATN Bangla (HelloTech)" tvg-logo="http://10.11.12.13:9044/static/images/20260312161912_unnamed_3.jpg" group-title="Entertainment",ATN Bangla (HelloTech)
 https://tvapp-hellotech.easypecker.com/ENTER10-BANGLA/index.m3u8
@@ -220,7 +240,7 @@ https://tvapp-hellotech.easypecker.com/PEACE-TV-BANGLA-HD/index.m3u8
 http://172.20.5.1:8080/1234567/7654321/332
 #EXTINF:-1 tvg-name="ATN Bangla (StreamX)" tvg-logo="http://10.11.12.13:9044/static/images/20260312161834_Screenshot_5.jpg" group-title="Religious",ATN Bangla (StreamX)
 http://172.20.5.1:8080/1234567/7654321/358
-#EXTINF:-1 tvg-name="ATN News (Funtime BD)" tvg-logo="http://172.20.5.1:8080/images/c54ba901355e07a0c605d1990b5db7ae.png" group-title="News",ATN News (Funtime BD)
+#EXTINF:-1 tvg-name="ATN News (Funtime BD)" tvg-logo="" group-title="News",ATN News (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/208
 #EXTINF:-1 tvg-name="ATN News (HelloTech)" tvg-logo="http://10.11.12.13:9044/static/images/d2a02d82-fde4-4769-a6d9-95c0560e2120.webp" group-title="Kids",ATN News (HelloTech)
 https://tvapp-hellotech.easypecker.com/CartoonNetwork/index.m3u8
@@ -232,6 +252,8 @@ http://172.20.5.1:8080/1234567/7654321/348
 http://172.20.5.1:8080/1234567/7654321/209
 #EXTINF:-1 tvg-name="ATN News (StreamX)" tvg-logo="http://172.20.5.1:8080/images/d309408b7f5b800fa45206e97716ec8d.png" group-title="News",ATN News (StreamX)
 http://172.20.5.1:8080/1234567/7654321/201
+#EXTINF:-1 tvg-name="ATN News (64 Networks)" tvg-logo="" group-title="Kids",ATN News (64 Networks)
+http://198.195.239.50:8095/cartoonNetwork/index.m3u8
 #EXTINF:-1 tvg-name="AXN (HelloTech)" tvg-logo="http://10.11.12.13:9044/static/images/20260312161026_images_10.png" group-title="Entertainment",AXN (HelloTech)
 https://tvapp-hellotech.easypecker.com/AXN-HD/index.m3u8
 #EXTINF:-1 tvg-name="AXN (StreamX)" tvg-logo="http://172.20.5.1:8080/images/7222480bc2e75bc020d0e80c1fac8fd4.png" group-title="Entertainment",AXN (StreamX)
@@ -246,13 +268,15 @@ https://tvapp-hellotech.easypecker.com/b4utv/index.m3u8
 http://172.20.5.1:8080/1234567/7654321/23
 #EXTINF:-1 tvg-name="Hum TV (StreamX)" tvg-logo="http://172.20.5.1:8080/images/c22608555f0b57f66ada0a159a9fff88.png" group-title="Entertainment",Hum TV (StreamX)
 http://172.20.5.1:8080/1234567/7654321/334
-#EXTINF:-1 tvg-name="Bangla TV (Funtime BD)" tvg-logo="http://10.11.12.13:9044/static/images/Banglavision.png" group-title="Bangladesh",Bangla TV (Funtime BD)
+#EXTINF:-1 tvg-name="Bangla TV (Funtime BD)" tvg-logo="http://198.195.239.50/img/channels/BANGLA_VISION.png" group-title="Bangladesh",Bangla TV (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/221
 #EXTINF:-1 tvg-name="Bangla TV (HelloTech)" tvg-logo="http://10.11.12.13:9044/static/images/Banglavision.png" group-title="Entertainment",Bangla TV (HelloTech)
 https://tvapp-hellotech.easypecker.com/BanglaV/index.m3u8
 #EXTINF:-1 tvg-name="Bangla TV (StreamX)" tvg-logo="http://172.20.5.1:8080/images/4ad7f3d71badc4bf6fa481fdb46cfd1f.png" group-title="Bangladesh",Bangla TV (StreamX)
 http://172.20.5.1:8080/1234567/7654321/48
-#EXTINF:-1 tvg-name="Bangla Vision (Funtime BD)" tvg-logo="http://10.11.12.13:9044/static/images/Banglavision.png" group-title="Bangladesh",Bangla Vision (Funtime BD)
+#EXTINF:-1 tvg-name="Bangla TV (64 Networks)" tvg-logo="http://198.195.239.50/img/channels/BANGLA_VISION.png" group-title="Bangladesh",Bangla TV (64 Networks)
+http://198.195.239.50:8095/banglaVision/index.m3u8
+#EXTINF:-1 tvg-name="Bangla Vision (Funtime BD)" tvg-logo="http://198.195.239.50/img/channels/BANGLA_VISION.png" group-title="Bangladesh",Bangla Vision (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/205
 #EXTINF:-1 tvg-name="Bangla Vision (HelloTech)" tvg-logo="http://10.11.12.13:9044/static/images/20260112182805_b0f0bfe0-f1f3-48b3-83ce-203cd44cafe2.png" group-title="Movies",Bangla Vision (HelloTech)
 https://tvapp-hellotech.easypecker.com/ZeeBanglaCinema/index.m3u8
@@ -302,21 +326,25 @@ http://172.20.5.1:8080/1234567/7654321/50
 http://172.21.22.23:8080/7654321/1234567/199
 #EXTINF:-1 tvg-name="BTV Chattagram (StreamX)" tvg-logo="" group-title="Bangladesh",BTV Chattagram (StreamX)
 http://172.20.5.1:8080/1234567/7654321/324
-#EXTINF:-1 tvg-name="BTV National (Funtime BD)" tvg-logo="http://172.20.5.1:8080/images/b296b8544c24ab25d37dc8e77df5008f.png" group-title="Bangladesh",BTV National (Funtime BD)
+#EXTINF:-1 tvg-name="BTV National (Funtime BD)" tvg-logo="http://198.195.239.50/img/channels/BTV.HD.png" group-title="Bangladesh",BTV National (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/196
 #EXTINF:-1 tvg-name="BTV National (StreamX)" tvg-logo="http://172.20.5.1:8080/images/b296b8544c24ab25d37dc8e77df5008f.png" group-title="Bangladesh",BTV National (StreamX)
 http://172.20.5.1:8080/1234567/7654321/269
-#EXTINF:-1 tvg-name="BTV News (Funtime BD)" tvg-logo="http://172.20.5.1:8080/images/50888a39db362cea2ef3054bf131c1a3.png" group-title="News",BTV News (Funtime BD)
+#EXTINF:-1 tvg-name="BTV National (64 Networks)" tvg-logo="http://198.195.239.50/img/channels/BTV.HD.png" group-title="Bangladesh",BTV National (64 Networks)
+http://198.195.239.50:8095/btv/index.m3u8
+#EXTINF:-1 tvg-name="BTV National (64 Networks)" tvg-logo="http://198.195.239.50/img/channels/BTV.HD.png" group-title="Bangladesh",BTV National (64 Networks)
+http://198.195.239.50:8095/btv/video.m3u8
+#EXTINF:-1 tvg-name="BTV News (Funtime BD)" tvg-logo="" group-title="News",BTV News (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/330
 #EXTINF:-1 tvg-name="BTV World (Funtime BD)" tvg-logo="http://172.20.5.1:8080/images/cd37dbf46a77054352e117d6082dec24.png" group-title="Bangladesh",BTV World (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/197
-#EXTINF:-1 tvg-name="Cartoon Network (Funtime BD)" tvg-logo="http://10.11.12.13:9044/static/images/d2a02d82-fde4-4769-a6d9-95c0560e2120.webp" group-title="Kids",Cartoon Network (Funtime BD)
+#EXTINF:-1 tvg-name="Cartoon Network (Funtime BD)" tvg-logo="" group-title="Kids",Cartoon Network (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/294
-#EXTINF:-1 tvg-name="Cartoon Network (Funtime BD)" tvg-logo="http://10.11.12.13:9044/static/images/d2a02d82-fde4-4769-a6d9-95c0560e2120.webp" group-title="Kids",Cartoon Network (Funtime BD)
+#EXTINF:-1 tvg-name="Cartoon Network (Funtime BD)" tvg-logo="" group-title="Kids",Cartoon Network (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/297
 #EXTINF:-1 tvg-name="Cgtn NEWS (Funtime BD)" tvg-logo="http://172.20.5.1:8080/images/c54ba901355e07a0c605d1990b5db7ae.png" group-title="News",Cgtn NEWS (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/284
-#EXTINF:-1 tvg-name="Channel 24 (Funtime BD)" tvg-logo="http://10.11.12.13:9044/static/images/Logo_of_Cha.png" group-title="Bangladesh",Channel 24 (Funtime BD)
+#EXTINF:-1 tvg-name="Channel 24 (Funtime BD)" tvg-logo="" group-title="Bangladesh",Channel 24 (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/212
 #EXTINF:-1 tvg-name="Channel 24 (HelloTech)" tvg-logo="http://10.11.12.13:9044/static/images/Logo_of_Cha.png" group-title="Entertainment",Channel 24 (HelloTech)
 https://tvapp-hellotech.easypecker.com/CH24/index.m3u8
@@ -330,9 +358,13 @@ http://172.20.5.1:8080/1234567/7654321/54
 http://172.20.5.1:8080/1234567/7654321/52
 #EXTINF:-1 tvg-name="Channel 24 (StreamX)" tvg-logo="http://172.20.5.1:8080/images/ayfdHaSGfQQ7HLxmvsjLeCOJf3Wf-ieS__TWgQDmNcnlcNCFi9eIFk3O1iybXQw8izs7swCO8GG1JpeIq1codQ.png" group-title="Bangladesh",Channel 24 (StreamX)
 http://172.20.5.1:8080/1234567/7654321/330
+#EXTINF:-1 tvg-name="Channel 24 (64 Networks)" tvg-logo="" group-title="Bangladesh",Channel 24 (64 Networks)
+http://198.195.239.50:8095/channel24/index.m3u8
+#EXTINF:-1 tvg-name="Channel 24 (64 Networks)" tvg-logo="" group-title="Bangladesh",Channel 24 (64 Networks)
+http://198.195.239.50:8095/channelI/index.m3u8
 #EXTINF:-1 tvg-name="Channel 9 (Funtime BD)" tvg-logo="http://10.11.12.13:9044/static/images/channel9.jpg" group-title="Entertainment",Channel 9 (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/325
-#EXTINF:-1 tvg-name="Channel I (Funtime BD)" tvg-logo="http://10.11.12.13:9044/static/images/channeli.png" group-title="Bangladesh",Channel I (Funtime BD)
+#EXTINF:-1 tvg-name="Channel I (Funtime BD)" tvg-logo="" group-title="Bangladesh",Channel I (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/200
 #EXTINF:-1 tvg-name="Channel S (Funtime BD)" tvg-logo="http://172.20.5.1:8080/images/ayfdHaSGfQQ7HLxmvsjLeCOJf3Wf-ieS__TWgQDmNcnlcNCFi9eIFk3O1iybXQw8izs7swCO8GG1JpeIq1codQ.png" group-title="Bangladesh",Channel S (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/336
@@ -342,20 +374,26 @@ http://172.21.22.23:8080/7654321/1234567/283
 https://tvapp-hellotech.easypecker.com/cnn/index.m3u8
 #EXTINF:-1 tvg-name="CNN (StreamX)" tvg-logo="http://172.20.5.1:8080/images/d8e09a648c26cc872c34110778a8e11b.png" group-title="News",CNN (StreamX)
 http://172.20.5.1:8080/1234567/7654321/164
-#EXTINF:-1 tvg-name="Colors (Funtime BD)" tvg-logo="http://172.20.5.1:8080/images/6d70997a2cf54be4d3e6080569a3a8eb.png" group-title="Entertainment",Colors (Funtime BD)
+#EXTINF:-1 tvg-name="Colors (Funtime BD)" tvg-logo="" group-title="Entertainment",Colors (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/239
 #EXTINF:-1 tvg-name="Colors (StreamX)" tvg-logo="http://172.20.5.1:8080/images/6d70997a2cf54be4d3e6080569a3a8eb.png" group-title="Entertainment",Colors (StreamX)
 http://172.20.5.1:8080/1234567/7654321/1
+#EXTINF:-1 tvg-name="Colors (64 Networks)" tvg-logo="" group-title="Entertainment",Colors (64 Networks)
+http://198.195.239.50:8095/colors/index.m3u8
 #EXTINF:-1 tvg-name="Colors Bangla (Funtime BD)" tvg-logo="http://172.20.5.1:8080/images/228a6dee0c79eb5cca5c5a9f6fd789be.png" group-title="Entertainment",Colors Bangla (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/229
 #EXTINF:-1 tvg-name="Colors Bangla (HelloTech)" tvg-logo="http://10.11.12.13:9044/static/images/20260312171129_channels4_profile_15.jpg" group-title="Movies",Colors Bangla (HelloTech)
 https://tvapp-hellotech.easypecker.com/COLORS-BANGLA-CINEMA/index.m3u8
 #EXTINF:-1 tvg-name="Colors Bangla (HelloTech)" tvg-logo="http://10.11.12.13:9044/static/images/20260312172746_Colors_Cineplex_Black.png" group-title="Entertainment",Colors Bangla (HelloTech)
 https://tvapp-hellotech.easypecker.com/COLORS-CINEPLEX-HD/index.m3u8
-#EXTINF:-1 tvg-name="Colors Bangla (StreamX)" tvg-logo="http://10.11.12.13:9044/static/images/20260312172746_Colors_Cineplex_Black.png" group-title="Movies",Colors Bangla (StreamX)
+#EXTINF:-1 tvg-name="Colors Bangla (StreamX)" tvg-logo="" group-title="Movies",Colors Bangla (StreamX)
 http://172.20.5.1:8080/1234567/7654321/320
 #EXTINF:-1 tvg-name="Colors Bangla (StreamX)" tvg-logo="http://172.20.5.1:8080/images/ayfdHaSGfQQ7HLxmvsjLePGHrSUiH7OIsUHw-XNxKkNsKka8s2WkHX7UGXXgRE1EVGnh7kRYzevVgEFV82Phlw.png" group-title="Movies",Colors Bangla (StreamX)
 http://172.20.5.1:8080/1234567/7654321/335
+#EXTINF:-1 tvg-name="Colors Bangla (64 Networks)" tvg-logo="" group-title="Entertainment",Colors Bangla (64 Networks)
+http://198.195.239.50:8095/colorsBanglaChinema/index.m3u8
+#EXTINF:-1 tvg-name="Colors Bangla (64 Networks)" tvg-logo="" group-title="Entertainment",Colors Bangla (64 Networks)
+http://198.195.239.50:8095/colorsCineplex/index.m3u8
 #EXTINF:-1 tvg-name="Colors Infinity (Funtime BD)" tvg-logo="http://172.20.5.1:8080/images/42ac3f94d96e86fd6b111f6fa37d5425.png" group-title="Entertainment",Colors Infinity (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/308
 #EXTINF:-1 tvg-name="Colors Infinity (StreamX)" tvg-logo="http://172.20.5.1:8080/images/42ac3f94d96e86fd6b111f6fa37d5425.png" group-title="Entertainment",Colors Infinity (StreamX)
@@ -364,7 +402,7 @@ http://172.20.5.1:8080/1234567/7654321/16
 http://172.21.22.23:8080/7654321/1234567/219
 #EXTINF:-1 tvg-name="DBC News (StreamX)" tvg-logo="http://172.20.5.1:8080/images/55e4f162bb705961c5d6a0fd3da50e03.png" group-title="News",DBC News (StreamX)
 http://172.20.5.1:8080/1234567/7654321/195
-#EXTINF:-1 tvg-name="Deepto TV (Funtime BD)" tvg-logo="http://10.11.12.13:9044/static/images/deepto.jpg" group-title="Bangladesh",Deepto TV (Funtime BD)
+#EXTINF:-1 tvg-name="Deepto TV (Funtime BD)" tvg-logo="http://198.195.239.50/img/channels/DEEPTO.png" group-title="Bangladesh",Deepto TV (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/218
 #EXTINF:-1 tvg-name="Deepto TV (HelloTech)" tvg-logo="http://10.11.12.13:9044/static/images/deepto.jpg" group-title="Entertainment",Deepto TV (HelloTech)
 https://tvapp-hellotech.easypecker.com/deeptho_nk/index.m3u8
@@ -378,7 +416,7 @@ https://tvapp-hellotech.easypecker.com/ekattor_nk/index.m3u8
 https://tvapp-hellotech.easypecker.com/ZeeTVHD/index.m3u8
 #EXTINF:-1 tvg-name="Deepto TV (StreamX)" tvg-logo="http://172.20.5.1:8080/images/MTs0X_QtfIe-WZP8BN-fKFzy79QiWYFthtXm9NGSD9fFJ3LvjLQiUmg24SX3XC0gBhhaCkz-fHCeSzrq0wjWSA.png" group-title="Entertainment",Deepto TV (StreamX)
 http://172.20.5.1:8080/1234567/7654321/280
-#EXTINF:-1 tvg-name="Deepto TV (StreamX)" tvg-logo="http://10.11.12.13:9044/static/images/deepto.jpg" group-title="Bangladesh",Deepto TV (StreamX)
+#EXTINF:-1 tvg-name="Deepto TV (StreamX)" tvg-logo="http://198.195.239.50/img/channels/DEEPTO.png" group-title="Bangladesh",Deepto TV (StreamX)
 http://172.20.5.1:8080/1234567/7654321/327
 #EXTINF:-1 tvg-name="Deepto TV (StreamX)" tvg-logo="http://172.20.5.1:8080/images/1f8fd480b16aa5e8895a2ddae23b5192.png" group-title="Bangladesh",Deepto TV (StreamX)
 http://172.20.5.1:8080/1234567/7654321/60
@@ -390,6 +428,10 @@ http://172.20.5.1:8080/1234567/7654321/64
 http://172.20.5.1:8080/1234567/7654321/72
 #EXTINF:-1 tvg-name="Deepto TV (StreamX)" tvg-logo="http://172.20.5.1:8080/images/2b9f677f1e8189edc9340c7af53ec452.png" group-title="Entertainment",Deepto TV (StreamX)
 http://172.20.5.1:8080/1234567/7654321/11
+#EXTINF:-1 tvg-name="Deepto TV (64 Networks)" tvg-logo="http://198.195.239.50/img/channels/DEEPTO.png" group-title="Bangladesh",Deepto TV (64 Networks)
+http://198.195.239.50:8095/deepto/index.m3u8
+#EXTINF:-1 tvg-name="Deepto TV (64 Networks)" tvg-logo="http://198.195.239.50/img/channels/EKATTOR_TV.png" group-title="Bangladesh",Deepto TV (64 Networks)
+http://198.195.239.50:8095/ekattorTv/index.m3u8
 #EXTINF:-1 tvg-name="Desh TV (Funtime BD)" tvg-logo="http://10.11.12.13:9044/static/images/ssdsdsd.jpg" group-title="Bangladesh",Desh TV (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/206
 #EXTINF:-1 tvg-name="Desh TV (HelloTech)" tvg-logo="http://10.11.12.13:9044/static/images/channels4_3434profile.jpg" group-title="News",Desh TV (HelloTech)
@@ -400,7 +442,9 @@ https://tvapp-hellotech.easypecker.com/hum_tp/index.m3u8
 http://172.20.5.1:8080/1234567/7654321/62
 #EXTINF:-1 tvg-name="Desh TV (StreamX)" tvg-logo="http://172.20.5.1:8080/images/4240cedc9e1c54699d9858691c7a365f.png" group-title="Bangladesh",Desh TV (StreamX)
 http://172.20.5.1:8080/1234567/7654321/118
-#EXTINF:-1 tvg-name="Discovery (Funtime BD)" tvg-logo="http://10.11.12.13:9044/static/images/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp" group-title="Documentary",Discovery (Funtime BD)
+#EXTINF:-1 tvg-name="Desh TV (64 Networks)" tvg-logo="" group-title="Entertainment",Desh TV (64 Networks)
+http://198.195.239.50:8095/somoyTv/index.m3u8
+#EXTINF:-1 tvg-name="Discovery (Funtime BD)" tvg-logo="" group-title="Documentary",Discovery (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/286
 #EXTINF:-1 tvg-name="Discovery (HelloTech)" tvg-logo="http://10.11.12.13:9044/static/images/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp" group-title="Documentary",Discovery (HelloTech)
 https://tvapp-hellotech.easypecker.com/Discovery/index.m3u8
@@ -414,19 +458,23 @@ http://172.20.5.1:8080/1234567/7654321/3
 http://172.20.5.1:8080/1234567/7654321/239
 #EXTINF:-1 tvg-name="Discovery (StreamX)" tvg-logo="http://172.20.5.1:8080/images/ayfdHaSGfQQ7HLxmvsjLePGHrSUiH7OIsUHw-XNxKkOo2fUQB1rHz5men7OiMk1y.png" group-title="Documentary",Discovery (StreamX)
 http://172.20.5.1:8080/1234567/7654321/345
-#EXTINF:-1 tvg-name="Discovery (StreamX)" tvg-logo="http://10.11.12.13:9044/static/images/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp" group-title="Kids",Discovery (StreamX)
+#EXTINF:-1 tvg-name="Discovery (StreamX)" tvg-logo="" group-title="Kids",Discovery (StreamX)
 http://172.20.5.1:8080/1234567/7654321/319
-#EXTINF:-1 tvg-name="Discovery (StreamX)" tvg-logo="http://10.11.12.13:9044/static/images/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp" group-title="Kids",Discovery (StreamX)
+#EXTINF:-1 tvg-name="Discovery (StreamX)" tvg-logo="" group-title="Kids",Discovery (StreamX)
 http://172.20.5.1:8080/1234567/7654321/352
 #EXTINF:-1 tvg-name="Discovery (StreamX)" tvg-logo="http://172.20.5.1:8080/images/861d9cb78a34d81defb9829bb4f8bcaa.png" group-title="Documentary",Discovery (StreamX)
 http://172.20.5.1:8080/1234567/7654321/126
-#EXTINF:-1 tvg-name="Discovery ID (Funtime BD)" tvg-logo="http://10.11.12.13:9044/static/images/325887a7-84ea-4cf9-a6fd-6111ddc25671.webp" group-title="Documentary",Discovery ID (Funtime BD)
+#EXTINF:-1 tvg-name="Discovery (64 Networks)" tvg-logo="" group-title="Documentary",Discovery (64 Networks)
+http://198.195.239.50:8095/discovery/index.m3u8
+#EXTINF:-1 tvg-name="Discovery (64 Networks)" tvg-logo="" group-title="Documentary",Discovery (64 Networks)
+http://198.195.239.50:8095/disnepKids/index.m3u8
+#EXTINF:-1 tvg-name="Discovery ID (Funtime BD)" tvg-logo="" group-title="Documentary",Discovery ID (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/338
-#EXTINF:-1 tvg-name="Discovery Kids (Funtime BD)" tvg-logo="http://10.11.12.13:9044/static/images/325887a7-84ea-4cf9-a6fd-6111ddc25671.webp" group-title="Documentary",Discovery Kids (Funtime BD)
+#EXTINF:-1 tvg-name="Discovery Kids (Funtime BD)" tvg-logo="" group-title="Documentary",Discovery Kids (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/304
 #EXTINF:-1 tvg-name="Discovery Science (Funtime BD)" tvg-logo="http://172.20.5.1:8080/images/ayfdHaSGfQQ7HLxmvsjLePGHrSUiH7OIsUHw-XNxKkOo2fUQB1rHz5men7OiMk1y.png" group-title="Documentary",Discovery Science (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/337
-#EXTINF:-1 tvg-name="Disney (Funtime BD)" tvg-logo="http://10.11.12.13:9044/static/images/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp" group-title="Kids",Disney (Funtime BD)
+#EXTINF:-1 tvg-name="Disney (Funtime BD)" tvg-logo="" group-title="Kids",Disney (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/296
 #EXTINF:-1 tvg-name="Disney (HelloTech)" tvg-logo="http://10.11.12.13:9044/static/images/0ab48ac0-ec84-4ca2-9601-746ff3cb809e.webp" group-title="Entertainment",Disney (HelloTech)
 https://tvapp-hellotech.easypecker.com/SonyEntertainmentTelevisionHD/index.m3u8
@@ -436,7 +484,9 @@ http://172.20.5.1:8080/1234567/7654321/288
 http://172.20.5.1:8080/1234567/7654321/353
 #EXTINF:-1 tvg-name="Disney (StreamX)" tvg-logo="http://172.20.5.1:8080/images/MTs0X_QtfIe-WZP8BN-fKFzy79QiWYFthtXm9NGSD9cctaXkbzbbElvAtbrEu36fPR9E9uyCo6mR3WuJmp_91g.png" group-title="Entertainment",Disney (StreamX)
 http://172.20.5.1:8080/1234567/7654321/21
-#EXTINF:-1 tvg-name="Disney (Funtime BD)" tvg-logo="http://10.11.12.13:9044/static/images/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp" group-title="Kids",Disney (Funtime BD)
+#EXTINF:-1 tvg-name="Disney (64 Networks)" tvg-logo="" group-title="Entertainment",Disney (64 Networks)
+http://198.195.239.50:8095/sonyEntertainment/index.m3u8
+#EXTINF:-1 tvg-name="Disney (Funtime BD)" tvg-logo="" group-title="Kids",Disney (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/324
 #EXTINF:-1 tvg-name="Disney Junior (Funtime BD)" tvg-logo="http://172.20.5.1:8080/images/MTs0X_QtfIe-WZP8BN-fKFzy79QiWYFthtXm9NGSD9fFJ3LvjLQiUmg24SX3XC0gNWmT4mJkYN-46WKhMtoYgQ.png" group-title="Kids",Disney Junior (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/305
@@ -444,7 +494,7 @@ http://172.21.22.23:8080/7654321/1234567/305
 http://172.21.22.23:8080/7654321/1234567/222
 #EXTINF:-1 tvg-name="DW (Funtime BD)" tvg-logo="" group-title="News",DW (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/285
-#EXTINF:-1 tvg-name="Ekattor TV (Funtime BD)" tvg-logo="http://10.11.12.13:9044/static/images/images.jpg" group-title="Bangladesh",Ekattor TV (Funtime BD)
+#EXTINF:-1 tvg-name="Ekattor TV (Funtime BD)" tvg-logo="http://198.195.239.50/img/channels/EKATTOR_TV.png" group-title="Bangladesh",Ekattor TV (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/214
 #EXTINF:-1 tvg-name="Ekattor TV (HelloTech)" tvg-logo="http://10.11.12.13:9044/static/images/20260109235328_images_3.png" group-title="Bangladesh",Ekattor TV (HelloTech)
 https://tvapp-hellotech.easypecker.com/nagorik_r/index.m3u8
@@ -472,8 +522,14 @@ https://tvapp-hellotech.easypecker.com/EurosportHD/index.m3u8
 http://172.20.5.1:8080/1234567/7654321/120
 #EXTINF:-1 tvg-name="Eurosport (StreamX)" tvg-logo="http://10.11.12.13:9044/static/images/20260109235811_unnamed_2.png" group-title="Sports",Eurosport (StreamX)
 http://172.20.5.1:8080/1234567/7654321/357
-#EXTINF:-1 tvg-name="F1 (HelloTech)" tvg-logo="http://10.11.12.13:9044/static/images/20260110000435_fimg1.jpg" group-title="Sports",F1 (HelloTech)
+#EXTINF:-1 tvg-name="T Sports (Funtime BD)" tvg-logo="" group-title="Sports",T Sports (Funtime BD)
+http://172.21.22.23:8080/7654321/1234567/250
+#EXTINF:-1 tvg-name="T Sports (Funtime BD)" tvg-logo="" group-title="Sports",T Sports (Funtime BD)
+http://172.21.22.23:8080/7654321/1234567/251
+#EXTINF:-1 tvg-name="T Sports (HelloTech)" tvg-logo="http://10.11.12.13:9044/static/images/20260110000435_fimg1.jpg" group-title="Sports",T Sports (HelloTech)
 https://tvapp-hellotech.easypecker.com/sportzfy1/index.m3u8
+#EXTINF:-1 tvg-name="FIFA (64 Networks)" tvg-logo="http://198.195.239.50/img/channels/images.jpeg" group-title="Entertainment",FIFA (64 Networks)
+http://198.195.239.50:8095/Fifa-1/video.m3u8
 #EXTINF:-1 tvg-name="Fox Life (StreamX)" tvg-logo="http://172.20.5.1:8080/images/d26e995ba415a470bff416f5375c3019.png" group-title="Entertainment",Fox Life (StreamX)
 http://172.20.5.1:8080/1234567/7654321/187
 #EXTINF:-1 tvg-name="Gazi TV (Funtime BD)" tvg-logo="http://172.20.5.1:8080/images/1JlwBc4NmiwxZpWAmQulOgaOlwABwWyHAh1iT81gX61ynnFuHDNkmTq4YhvNpTIXKcVwiqQY0GfLSvuU8jvF816c-Fi5VIC8EHvQi4BS93g.png" group-title="Bangladesh",Gazi TV (Funtime BD)
@@ -512,7 +568,7 @@ http://172.21.22.23:8080/7654321/1234567/211
 https://tvapp-hellotech.easypecker.com/indopendettv/index.m3u8
 #EXTINF:-1 tvg-name="India Today (HelloTech)" tvg-logo="http://10.11.12.13:9044/static/images/livetv-it-default.jpg" group-title="News",India Today (HelloTech)
 https://tvapp-hellotech.easypecker.com/indiatoday/index.m3u8
-#EXTINF:-1 tvg-name="Jalsha Movies (Funtime BD)" tvg-logo="http://10.11.12.13:9044/static/images/20260312172514_597202-h.webp" group-title="Movies",Jalsha Movies (Funtime BD)
+#EXTINF:-1 tvg-name="Jalsha Movies (Funtime BD)" tvg-logo="" group-title="Movies",Jalsha Movies (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/234
 #EXTINF:-1 tvg-name="Jalsha Movies (HelloTech)" tvg-logo="http://10.11.12.13:9044/static/images/20260312172514_597202-h.webp" group-title="Movies",Jalsha Movies (HelloTech)
 https://tvapp-hellotech.easypecker.com/JALSHA-MOVIES-HD/index.m3u8
@@ -522,7 +578,11 @@ https://tvapp-hellotech.easypecker.com/Star-Movies/index.m3u8
 http://172.20.5.1:8080/1234567/7654321/178
 #EXTINF:-1 tvg-name="Jalsha Movies (StreamX)" tvg-logo="http://172.20.5.1:8080/images/b3ca197c108439d43652b3573ab3865b.png" group-title="Movies",Jalsha Movies (StreamX)
 http://172.20.5.1:8080/1234567/7654321/26
-#EXTINF:-1 tvg-name="Jamuna TV (Funtime BD)" tvg-logo="http://10.11.12.13:9044/static/images/Jamuna%20Tv1664825738.png" group-title="Bangladesh",Jamuna TV (Funtime BD)
+#EXTINF:-1 tvg-name="Jalsha Movies (64 Networks)" tvg-logo="" group-title="Movies",Jalsha Movies (64 Networks)
+http://198.195.239.50:8095/jalshaMovies/index.m3u8
+#EXTINF:-1 tvg-name="Jalsha Movies (64 Networks)" tvg-logo="" group-title="Movies",Jalsha Movies (64 Networks)
+http://198.195.239.50:8095/starMovies/index.m3u8
+#EXTINF:-1 tvg-name="Jamuna TV (Funtime BD)" tvg-logo="" group-title="Bangladesh",Jamuna TV (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/217
 #EXTINF:-1 tvg-name="Khushboo (Funtime BD)" tvg-logo="" group-title="Entertainment",Khushboo (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/233
@@ -640,7 +700,7 @@ http://172.20.5.1:8080/1234567/7654321/349
 http://172.21.22.23:8080/7654321/1234567/298
 #EXTINF:-1 tvg-name="Nick Jr (Funtime BD)" tvg-logo="http://10.11.12.13:9044/static/images/20260312170828_Screenshot_8.jpg" group-title="Kids",Nick Jr (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/301
-#EXTINF:-1 tvg-name="NTV (Funtime BD)" tvg-logo="http://10.11.12.13:9044/static/images/channels4_profile.jpg" group-title="Bangladesh",NTV (Funtime BD)
+#EXTINF:-1 tvg-name="NTV (Funtime BD)" tvg-logo="http://198.195.239.50/img/channels/NTV.png" group-title="Bangladesh",NTV (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/202
 #EXTINF:-1 tvg-name="Peace TV Bangla (Funtime BD)" tvg-logo="http://10.11.12.13:9044/static/images/20260312161834_Screenshot_5.jpg" group-title="Religious",Peace TV Bangla (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/321
@@ -650,11 +710,11 @@ http://172.21.22.23:8080/7654321/1234567/300
 https://tvapp-hellotech.easypecker.com/POGO/index.m3u8
 #EXTINF:-1 tvg-name="POGO (StreamX)" tvg-logo="http://172.20.5.1:8080/images/8a4c91ee003beb110e9a5af6c44b439d.png" group-title="Kids",POGO (StreamX)
 http://172.20.5.1:8080/1234567/7654321/191
-#EXTINF:-1 tvg-name="Ptv 1 (HelloTech)" tvg-logo="http://10.11.12.13:9044/static/images/20260312214748_1-7-1.jpg" group-title="Sports",Ptv 1 (HelloTech)
+#EXTINF:-1 tvg-name="PTV (HelloTech)" tvg-logo="http://10.11.12.13:9044/static/images/20260312214748_1-7-1.jpg" group-title="Sports",PTV (HelloTech)
 https://tvapp-hellotech.easypecker.com/ptv_bdix/index.m3u8
-#EXTINF:-1 tvg-name="Ptv 2 (HelloTech)" tvg-logo="http://10.11.12.13:9044/static/images/20260312214748_1-7-1.jpg" group-title="Sports",Ptv 2 (HelloTech)
+#EXTINF:-1 tvg-name="PTV (HelloTech)" tvg-logo="http://10.11.12.13:9044/static/images/20260312214748_1-7-1.jpg" group-title="Sports",PTV (HelloTech)
 https://tvapp-hellotech.easypecker.com/ptv_nix/index.m3u8
-#EXTINF:-1 tvg-name="PTV Sports (Funtime BD)" tvg-logo="http://172.20.5.1:8080/images/66d951e3deba87e185fd0fec96a3ca9e.png" group-title="Sports",PTV Sports (Funtime BD)
+#EXTINF:-1 tvg-name="PTV Sports (Funtime BD)" tvg-logo="" group-title="Sports",PTV Sports (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/264
 #EXTINF:-1 tvg-name="Romedy Now (Funtime BD)" tvg-logo="http://10.11.12.13:9044/static/images/20260312172143_Logo_Romedy_Now.jpg" group-title="Movies",Romedy Now (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/315
@@ -666,7 +726,7 @@ http://172.21.22.23:8080/7654321/1234567/326
 http://172.21.22.23:8080/7654321/1234567/331
 #EXTINF:-1 tvg-name="SAMAA TV (StreamX)" tvg-logo="http://172.20.5.1:8080/images/234f237aa1b888ab9a5eeaf20a61cd9e.png" group-title="Bangladesh",SAMAA TV (StreamX)
 http://172.20.5.1:8080/1234567/7654321/92
-#EXTINF:-1 tvg-name="Sangeet Bangla (Funtime BD)" tvg-logo="http://172.20.5.1:8080/images/3939089a57059c09e5e1aed18420a5c6.png" group-title="Music",Sangeet Bangla (Funtime BD)
+#EXTINF:-1 tvg-name="Sangeet Bangla (Funtime BD)" tvg-logo="" group-title="Music",Sangeet Bangla (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/317
 #EXTINF:-1 tvg-name="SATV (Funtime BD)" tvg-logo="http://172.20.5.1:8080/images/234f237aa1b888ab9a5eeaf20a61cd9e.png" group-title="Bangladesh",SATV (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/216
@@ -696,7 +756,7 @@ http://172.21.22.23:8080/7654321/1234567/210
 http://172.21.22.23:8080/7654321/1234567/299
 #EXTINF:-1 tvg-name="Sonic (StreamX)" tvg-logo="http://172.20.5.1:8080/images/3763598ae583f5509ab488707a91a9ff.png" group-title="Entertainment",Sonic (StreamX)
 http://172.20.5.1:8080/1234567/7654321/6
-#EXTINF:-1 tvg-name="Sony (Funtime BD)" tvg-logo="http://10.11.12.13:9044/static/images/0ab48ac0-ec84-4ca2-9601-746ff3cb809e.webp" group-title="Entertainment",Sony (Funtime BD)
+#EXTINF:-1 tvg-name="Sony (Funtime BD)" tvg-logo="" group-title="Entertainment",Sony (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/237
 #EXTINF:-1 tvg-name="Sony (HelloTech)" tvg-logo="http://10.11.12.13:9044/static/images/20260312214126_Sony-Sports-Network-gears-up-for-Asia-Cup-2025-with-star-studded-expert-panel.png" group-title="Entertainment",Sony (HelloTech)
 https://tvapp-hellotech.easypecker.com/SONY-SPORTS3/index.m3u8
@@ -712,7 +772,11 @@ https://tvapp-hellotech.easypecker.com/SONY-YAY/index.m3u8
 http://172.20.5.1:8080/1234567/7654321/267
 #EXTINF:-1 tvg-name="Sony (StreamX)" tvg-logo="http://172.20.5.1:8080/images/048fe67b63d3f202676535a6c9ca45a3.png" group-title="Movies",Sony (StreamX)
 http://172.20.5.1:8080/1234567/7654321/5
-#EXTINF:-1 tvg-name="Sony Aath (Funtime BD)" tvg-logo="http://10.11.12.13:9044/static/images/f4db1c12-b10f-46e8-a09b-e0efb8820970.png" group-title="Entertainment",Sony Aath (Funtime BD)
+#EXTINF:-1 tvg-name="Sony (64 Networks)" tvg-logo="" group-title="Entertainment",Sony (64 Networks)
+http://198.195.239.50:8095/sonyAath/index.m3u8
+#EXTINF:-1 tvg-name="Sony (64 Networks)" tvg-logo="" group-title="Movies",Sony (64 Networks)
+http://198.195.239.50:8095/sonyMax/index.m3u8
+#EXTINF:-1 tvg-name="Sony Aath (Funtime BD)" tvg-logo="" group-title="Entertainment",Sony Aath (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/230
 #EXTINF:-1 tvg-name="Sony Aath (HelloTech)" tvg-logo="http://10.11.12.13:9044/static/images/20260312214333_Sony-Sports-Network-gears-up-for-Asia-Cup-2025-with-star-studded-expert-panel.png" group-title="Entertainment",Sony Aath (HelloTech)
 https://tvapp-hellotech.easypecker.com/SonyTenSports1/index.m3u8
@@ -734,11 +798,11 @@ http://172.20.5.1:8080/1234567/7654321/170
 http://172.20.5.1:8080/1234567/7654321/339
 #EXTINF:-1 tvg-name="Sony Aath (StreamX)" tvg-logo="http://172.20.5.1:8080/images/d970b7470ec8f566c4a32c914db67f0d.png" group-title="Entertainment",Sony Aath (StreamX)
 http://172.20.5.1:8080/1234567/7654321/144
-#EXTINF:-1 tvg-name="Sony Max (Funtime BD)" tvg-logo="http://10.11.12.13:9044/static/images/sonymax.jpeg" group-title="Movies",Sony Max (Funtime BD)
+#EXTINF:-1 tvg-name="Sony Max (Funtime BD)" tvg-logo="" group-title="Movies",Sony Max (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/246
 #EXTINF:-1 tvg-name="Sony Pix (Funtime BD)" tvg-logo="http://172.20.5.1:8080/images/3763598ae583f5509ab488707a91a9ff.png" group-title="Entertainment",Sony Pix (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/306
-#EXTINF:-1 tvg-name="Sony SAB (Funtime BD)" tvg-logo="http://10.11.12.13:9044/static/images/sonymax.jpeg" group-title="Entertainment",Sony SAB (Funtime BD)
+#EXTINF:-1 tvg-name="Sony SAB (Funtime BD)" tvg-logo="" group-title="Entertainment",Sony SAB (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/327
 #EXTINF:-1 tvg-name="Sony Ten 1 (Funtime BD)" tvg-logo="http://10.11.12.13:9044/static/images/20260312214333_Sony-Sports-Network-gears-up-for-Asia-Cup-2025-with-star-studded-expert-panel.png" group-title="Entertainment",Sony Ten 1 (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/252
@@ -750,12 +814,14 @@ http://172.21.22.23:8080/7654321/1234567/254
 http://172.21.22.23:8080/7654321/1234567/255
 #EXTINF:-1 tvg-name="SSC Sports 1 (Funtime BD)" tvg-logo="http://10.11.12.13:9044/static/images/20260110000632_fimg1.jpg" group-title="Sports",SSC Sports 1 (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/274
-#EXTINF:-1 tvg-name="Star Jalsha (Funtime BD)" tvg-logo="http://10.11.12.13:9044/static/images/20260110002529_Star_Jalsha_logo_2023.png" group-title="Entertainment",Star Jalsha (Funtime BD)
+#EXTINF:-1 tvg-name="Star Jalsha (Funtime BD)" tvg-logo="" group-title="Entertainment",Star Jalsha (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/227
 #EXTINF:-1 tvg-name="Star Jalsha (HelloTech)" tvg-logo="http://10.11.12.13:9044/static/images/20260312154539_597236-h.webp" group-title="Entertainment",Star Jalsha (HelloTech)
 https://tvapp-hellotech.easypecker.com/STAR-BHARAT-HD/index.m3u8
 #EXTINF:-1 tvg-name="Star Jalsha (StreamX)" tvg-logo="http://172.20.5.1:8080/images/4b7ea9b771373733fb6ce2a171f0a900.png" group-title="Entertainment",Star Jalsha (StreamX)
 http://172.20.5.1:8080/1234567/7654321/94
+#EXTINF:-1 tvg-name="Star Jalsha (64 Networks)" tvg-logo="" group-title="Entertainment",Star Jalsha (64 Networks)
+http://198.195.239.50:8095/starJalsha/index.m3u8
 #EXTINF:-1 tvg-name="Star Gold (Funtime BD)" tvg-logo="http://10.11.12.13:9044/static/images/20260110002332_52a62839ab691a5758d601142a12791a3e44227bd46b3cb6f81a522f25d28531.webp" group-title="Movies",Star Gold (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/243
 #EXTINF:-1 tvg-name="Star Gold (HelloTech)" tvg-logo="http://10.11.12.13:9044/static/images/20260110002332_52a62839ab691a5758d601142a12791a3e44227bd46b3cb6f81a522f25d28531.webp" group-title="Movies",Star Gold (HelloTech)
@@ -778,6 +844,8 @@ http://172.20.5.1:8080/1234567/7654321/336
 http://172.20.5.1:8080/1234567/7654321/176
 #EXTINF:-1 tvg-name="Star Gold (StreamX)" tvg-logo="http://172.20.5.1:8080/images/bdfe426f1265643362cc936bba886509.png" group-title="Entertainment",Star Gold (StreamX)
 http://172.20.5.1:8080/1234567/7654321/8
+#EXTINF:-1 tvg-name="Star Gold (64 Networks)" tvg-logo="" group-title="Entertainment",Star Gold (64 Networks)
+http://198.195.239.50:8095/starPlus/index.m3u8
 #EXTINF:-1 tvg-name="Star Gold 2 (Funtime BD)" tvg-logo="http://172.20.5.1:8080/images/ayfdHaSGfQQ7HLxmvsjLeFt-shW1yWv1kRUpFlEZP_y1R-S6anw10mLTce9g3e8rI-i5uPjHwf8WglqHXEZgtA.png" group-title="Movies",Star Gold 2 (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/248
 #EXTINF:-1 tvg-name="Star Gold 2 (StreamX)" tvg-logo="http://172.20.5.1:8080/images/MTs0X_QtfIe-WZP8BN-fKFzy79QiWYFthtXm9NGSD9fye7ghUr9Ejv5_IzmQugCQ6hrMOYqnqVYSE5Quwzyg379r3EN9_wI3jGQN65bmT0g.png" group-title="Sports",Star Gold 2 (StreamX)
@@ -788,11 +856,11 @@ http://172.21.22.23:8080/7654321/1234567/249
 https://tvapp-hellotech.easypecker.com/STAR-MOVIES-SEL-HD/index.m3u8
 #EXTINF:-1 tvg-name="Star Gold Select (StreamX)" tvg-logo="http://172.20.5.1:8080/images/72ddf84ddc62f831c537d5e6d1f6b865.png" group-title="Movies",Star Gold Select (StreamX)
 http://172.20.5.1:8080/1234567/7654321/148
-#EXTINF:-1 tvg-name="Star Movies (Funtime BD)" tvg-logo="http://172.20.5.1:8080/images/b3ca197c108439d43652b3573ab3865b.png" group-title="Movies",Star Movies (Funtime BD)
+#EXTINF:-1 tvg-name="Star Movies (Funtime BD)" tvg-logo="" group-title="Movies",Star Movies (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/309
 #EXTINF:-1 tvg-name="Star Movies Select (Funtime BD)" tvg-logo="http://10.11.12.13:9044/static/images/20260312172315_star-movies-select-hd.png.png" group-title="Movies",Star Movies Select (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/310
-#EXTINF:-1 tvg-name="Star Plus (Funtime BD)" tvg-logo="http://10.11.12.13:9044/static/images/20260110003044_maxresdefault.jpg" group-title="Entertainment",Star Plus (Funtime BD)
+#EXTINF:-1 tvg-name="Star Plus (Funtime BD)" tvg-logo="" group-title="Entertainment",Star Plus (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/236
 #EXTINF:-1 tvg-name="Star Sports 1 (Funtime BD)" tvg-logo="http://10.11.12.13:9044/static/images/20260110000102_Star_Sports_Select_logo_1.png" group-title="Sports",Star Sports 1 (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/256
@@ -812,10 +880,6 @@ http://172.21.22.23:8080/7654321/1234567/231
 http://172.20.5.1:8080/1234567/7654321/307
 #EXTINF:-1 tvg-name="Super Premier League (StreamX)" tvg-logo="" group-title="Entertainment",Super Premier League (StreamX)
 http://172.20.5.1:8080/1234567/7654321/305
-#EXTINF:-1 tvg-name="T Sports (Funtime BD)" tvg-logo="http://10.11.12.13:9044/static/images/20260110000735_fimg1.jpg" group-title="Sports",T Sports (Funtime BD)
-http://172.21.22.23:8080/7654321/1234567/250
-#EXTINF:-1 tvg-name="T Sports (Funtime BD)" tvg-logo="http://10.11.12.13:9044/static/images/20260110000735_fimg1.jpg" group-title="Sports",T Sports (Funtime BD)
-http://172.21.22.23:8080/7654321/1234567/251
 #EXTINF:-1 tvg-name="Tapmad (HelloTech)" tvg-logo="http://10.11.12.13:9044/static/images/20260109235038_images_2.png" group-title="Entertainment",Tapmad (HelloTech)
 https://tvapp-hellotech.easypecker.com/tapmad_combo/index.m3u8
 #EXTINF:-1 tvg-name="TLC (Funtime BD)" tvg-logo="http://10.11.12.13:9044/static/images/0973097c-bc5c-4b28-aaca-f04d6f6cb5e2.webp" group-title="Documentary",TLC (Funtime BD)
@@ -856,7 +920,7 @@ http://172.20.5.1:8080/1234567/7654321/311
 http://172.21.22.23:8080/7654321/1234567/270
 #EXTINF:-1 tvg-name="Xplor (HelloTech)" tvg-logo="http://10.11.12.13:9044/static/images/20260312162710_images_12.png" group-title="Documentary",Xplor (HelloTech)
 https://tvapp-hellotech.easypecker.com/XPLOR-HD/index.m3u8
-#EXTINF:-1 tvg-name="Zee Bangla (Funtime BD)" tvg-logo="http://10.11.12.13:9044/static/images/20260110002758_6984812b-1c24-43cf-bded-3803c3f17bdd_1.png" group-title="Entertainment",Zee Bangla (Funtime BD)
+#EXTINF:-1 tvg-name="Zee Bangla (Funtime BD)" tvg-logo="" group-title="Entertainment",Zee Bangla (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/228
 #EXTINF:-1 tvg-name="Zee Bangla (Funtime BD)" tvg-logo="http://10.11.12.13:9044/static/images/20260110185431_f81d0cc9-c00e-4839-951a-b754e0e6c58f.png" group-title="Entertainment",Zee Bangla (Funtime BD)
 http://172.21.22.23:8080/7654321/1234567/238
